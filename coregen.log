@@ -1,5 +1,0 @@
-INFO:sim:172 - Generating IP...
-WARNING:sim:100 - The Simulation File Type <Behavioral> is not valid for this
-   core. Overriding with File Type <Structural>.
-Cancelled executing Tcl generator.
-Wrote CGP file for project 'Conv'.
